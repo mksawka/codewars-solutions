@@ -19,9 +19,11 @@ Otherwise it is complex.
 If complex:
 
 return "Keep It Simple Stupid"
+
 or if it was kept simple:
 
 return "Good work Joe!"
+
 Note: Random test are random and nonsensical. Here is a silly example of a random test:
 
 "jump always mostly is touchy dancing choice is pineapples mostly"
