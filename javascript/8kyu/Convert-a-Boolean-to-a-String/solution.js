@@ -1,0 +1,1 @@
+const booleanToString = value => typeof value != 'boolean' ? "Passed argument is not of type boolean." : value + "";
