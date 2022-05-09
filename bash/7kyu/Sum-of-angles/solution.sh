@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Find the total sum of internal angles in a n-sided simple polygon.
 
 n=$1
