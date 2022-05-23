@@ -6,7 +6,7 @@ startRange=$1
 endRange=$2
 sum=0
 
-if (( $1 == $2 )); then echo $1; exit 0; fi
+if (( $1 == $2 )); then echo "$1"; exit 0; fi
 
 if (( $2 < $1 ))
 then
@@ -19,6 +19,6 @@ do
   sum=$(( $sum + $i ))
 done
 
-echo $sum
+echo "$sum"
 
 exit 0
