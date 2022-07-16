@@ -42,4 +42,4 @@ function rps(player1, player2) {
    *
    */
   return 'Player 2 won!';
-};
+}
